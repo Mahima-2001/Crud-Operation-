@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "firstname": "karunya",
+      "lastname": "Chaudhari",
+      "email": "karunyaschaudhari@gmail.com",
+      "dob": "2024-04-24T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "facebook",
+      "exp": "Fresher",
+      "package": "7.5",
+      "id": "3bb1"
+    },
+    {
+      "id": "281b",
+      "firstname": "Mahima",
+      "lastname": "Chaudhari",
+      "email": "mahimachaudhari@gmail.com",
+      "dob": "2024-04-26T18:30:00.000Z",
+      "gender": "female",
+      "education": "Greduate",
+      "company": "Scaler techHub",
+      "exp": "Fresher",
+      "package": "3"
+    },
+    {
+      "id": "0ec9",
+      "firstname": "nikhil",
+      "lastname": "savale",
+      "email": "nikhil@gmail.com",
+      "dob": "2024-05-07T18:30:00.000Z",
+      "gender": "male",
+      "education": "Greduate",
+      "company": "google",
+      "exp": "3",
+      "package": "10"
+    }
+  ]
+}
